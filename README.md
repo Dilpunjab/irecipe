@@ -23,17 +23,3 @@ Iteration3 [Worksheet](i3_worksheet.md)
 ## Maintance
 We have a few features that couldn't come to fruition due to time constraint and higher priorities. Some of them include changing the theme of the app, content label, multi-user functionality and sort recipes by rating. The remaining features are marked as "future features" under milestones for potential future development.
 
-Insturction for marker when using our app for iteration_3 marking:
-===================================================================
-
-Dear marker:
-
-Hi!
-
-If you have marked our app previously and still have our app installed in your emulator, please uninstall the app and reinstall it before using and marking it.
-Our new feature involves creating new table in the database and populating the database with new data, the changes in the script file will not be copied over
-unless the app is uninstalled and reinstalled again. For the purpose of making the app works properly, please do so to get the best experience.
-
-Sincerely,
-
-Group 10
